@@ -16,11 +16,11 @@ Mibs called by this script will have dependencies. You will get SMI errors if yo
 Vincent Bernat author of snimpy explains this very well on this page.
 Here are the mibs we need 
 
-DOCS-CABLE-DEVICE-MIB<br>
-SNMPv2-MIB<br>
-IF-MIB<br>
-SNMPv2-SMI<br>
-DISMAN-EVENT-MIB<br>
-DOCS-IF-MIB<br>
-RFC1213-MIB<br>
-BRIDGE-MIB<br>
+DOCS-CABLE-DEVICE-MIB
+SNMPv2-MIB
+IF-MIB
+SNMPv2-SMI
+DISMAN-EVENT-MIB
+DOCS-IF-MIB
+RFC1213-MIB
+BRIDGE-MIB
