@@ -36,7 +36,7 @@ try:
 	mac.dialect = mac_cisco
 	
 	ifIndex = host.ifIndex
-	global downstream 
+	global downstream
 	downstream = []
 	global upstream
 	upstream = []
@@ -50,7 +50,7 @@ try:
 	o = 0
 	print ("-------------------------------------------------------------------")
 	print ("Downstream Information:")
-	print ("Down\t" + "Frequency\t" + "Width\t" + "Mod\t\t" + "Power\t" + "SNR\t") 
+	print ("Down\t" + "Frequency\t" + "Width\t" + "Mod\t\t" + "Power\t" + "SNR\t")
 	for i in downstream:
 		DownFreq = float(host.docsIfDownChannelFrequency[i]) / 1000000
 		ChanWidth = float(host.docsIfDownChannelWidth[i]) / 1000000
@@ -74,7 +74,7 @@ try:
 		UpWidth = float(host.docsIfUpChannelWidth[i]) / 1000000
 		UpID = host.docsIfUpChannelId[i]
 		UpPower = float(host.docsIfCmStatusTxPower[2]) / 10
-		print(str(o) + "\t" + str(UpFreq) + " MHZ \t" + str(UpWidth) + " MHZ \t" + str(UpID) + "\t" + str(UpPower)) 
+		print(str(o) + "\t" + str(UpFreq) + " MHZ \t" + str(UpWidth) + " MHZ \t" + str(UpID) + "\t" + str(UpPower))
 		o = o + 1
 	print ("-------------------------------------------------------------------")
 	print ("")
