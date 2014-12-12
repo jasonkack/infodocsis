@@ -1,7 +1,7 @@
 #! /usr/bin/env python
 # Copyright Jason Kack - jasonkack@gmail.com
 # Using MIT License
-# Version 0.1a
+# Version 0.2a
 
 import os
 import sys
@@ -29,7 +29,7 @@ try:
 	load("BRIDGE-MIB")
 		
 	modem = str(modem_host)
-	host = M(host=modem, community="public", version=2, timeout=1, retries=0)
+	host = M(host=modem, community="public", version=2, timeout=1, retries=2)
 	logs = host.docsDevEvFirstTime
 	cablemac = host.ifPhysAddress[2]
 	mac = EUI(cablemac)
