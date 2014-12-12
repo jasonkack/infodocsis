@@ -52,7 +52,6 @@ try:
 		DownFreq = float(host.docsIfDownChannelFrequency[i]) / 1000000
 		ChanWidth = float(host.docsIfDownChannelWidth[i]) / 1000000
 		ChanMod = host.docsIfDownChannelModulation[i]
-		#this value is returned slowly from Arris CM990A modems. I will investigate this
 		RXPower = float(host.docsIfDownChannelPower[i])	/ 10
 		DownSNR = float(host.docsIfSigQSignalNoise[i]) / 10
 		print(str(o) + "\t" + str(DownFreq) + " MHZ\t" + str(ChanWidth) + " MHZ\t" + str(ChanMod) + "\t" + str(RXPower) + "\t" + str(DownSNR))
