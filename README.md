@@ -25,7 +25,7 @@ DOCS-IF-MIB<br>
 RFC1213-MIB<br>
 BRIDGE-MIB<br>
 <br>
-Just install packages snmp-mibs-downloader on debian like systems to downlaod all these mibs and many more.
+Just install package snmp-mibs-downloader on debian like systems to downlaod all these mibs and many more.
 I had issues on 2 servers with with RFC1213-MIB that depends on RFC-1212 which was not included in snmp-mibs-downloader.<br>
 A quick way was to do wget http://www.simpleweb.org/ietf/mibs/modules/IETF/txt/RFC-1212 from the /usr/share/mibs/ietf
 <br>or<br>
