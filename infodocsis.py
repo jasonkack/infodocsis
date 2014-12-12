@@ -10,7 +10,6 @@ from netaddr import *
 from snimpy.manager import Manager as M
 from snimpy.manager import load
 from snimpy.manager import snmp
-global modem_host
 
 try:
 	modem_host = IP(sys.argv[1])
@@ -36,9 +35,7 @@ try:
 	mac.dialect = mac_cisco
 	
 	ifIndex = host.ifIndex
-	global downstream
 	downstream = []
-	global upstream
 	upstream = []
 	
 	o = 0
@@ -55,6 +52,7 @@ try:
 		DownFreq = float(host.docsIfDownChannelFrequency[i]) / 1000000
 		ChanWidth = float(host.docsIfDownChannelWidth[i]) / 1000000
 		ChanMod = host.docsIfDownChannelModulation[i]
+		#this value is returned slowly from Arris CM990A modems. I will investigate this
 		RXPower = float(host.docsIfDownChannelPower[i])	/ 10
 		DownSNR = float(host.docsIfSigQSignalNoise[i]) / 10
 		print(str(o) + "\t" + str(DownFreq) + " MHZ\t" + str(ChanWidth) + " MHZ\t" + str(ChanMod) + "\t" + str(RXPower) + "\t" + str(DownSNR))
