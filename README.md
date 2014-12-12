@@ -24,3 +24,9 @@ DISMAN-EVENT-MIB<br>
 DOCS-IF-MIB<br>
 RFC1213-MIB<br>
 BRIDGE-MIB<br>
+<br>
+I had issues on 2 servers with with RFC1213-MIB that depends on RFC-1212 which was not on my servers.<br>
+A quick way was to do wget http://www.simpleweb.org/ietf/mibs/modules/IETF/txt/RFC-1212 from the /usr/share/mibs/ietf
+<br>or<br>
+/var/lib/mibs/ietf
+<br> I now include it in the mibs dir so you can manually add it to your dir.
