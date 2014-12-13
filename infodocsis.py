@@ -6,9 +6,9 @@
 import os, sys
 from IPy import IP
 from netaddr import *
-from snimpy.manager import Manager as M, load, snmp
-#from snimpy.manager import load, snmp
-#from snimpy.manager import snmp
+from snimpy.manager import Manager as M
+from snimpy.manager import load, snmp
+from snimpy.manager import snmp
 
 try:
 	modem_host = IP(sys.argv[1])
