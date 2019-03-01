@@ -21,12 +21,10 @@ try:
 	load("DOCS-IF-MIB")
 	load("RFC1213-MIB")
 	load("BRIDGE-MIB")
-	load("/usr/share/snmp/mibs/arris/UUID-TC-MIB.mib")
-	load("/usr/share/snmp/mibs/arris/IANA-ENTITY-MIB.mib")
-	load("/usr/share/snmp/mibs/DOCS-IF-EXT-MIB.mib")
-	load("/usr/share/snmp/mibs/DOCS-IF31-MIB.txt")
-	load("/usr/share/snmp/mibs/arris/Docsis3.1_mibs/DOCS-PNM-MIB-2016-12-15.mib")
-	load("/usr/share/snmp/mibs/arris/Docsis3.1_mibs/DOCS-RPHY-MIB-2016-12-15.mib")
+	load("DOCS-IF31-MIB")
+	load("DOCS-PNM-MIB.txt")
+	load("DOCS-IF-EXT-MIB.my")
+
 
 
 	modem = str(modem_host)
@@ -211,4 +209,3 @@ try:
 
 except snmp.SNMPException as detail:
 	print ("Modem " + modem + " : " + str(detail))
-
