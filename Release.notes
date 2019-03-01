@@ -1,0 +1,21 @@
+# Version 0.5d
+# Fixed logging issue with CM8220A where a hex-string would be reported as an error. Now we simply skip that log entry
+
+# Version 0.5c
+# Fixed: Disabled logs until I can figure out how to print hex-string or ignore it
+# Fixed: Fxied the display of learned mac address to only display learned and not self. More too add on this feature
+
+#version 0.5b
+# FIXED: when adding release notes the paste removed the first line fo the script #! /usr/bin/env python
+
+# Version 0.5a
+# Added: support for ofdm and multiple Ethernet interfaces.
+# Added: support to detect modem version
+# Added: Power level and SNR for ofdm channel
+# Added: Stats for all Ethernet ports
+
+# TODO: add FEC of ofdm. For now use the script under tools called Fed 3.1
+# TODO: Reorder script to have sysinfo, version etc.. at the beginning of script
+# TODO: Tidy up
+# Dream: Of adding ncurse support to graph things like ofdm channel power to view the tilt
+
