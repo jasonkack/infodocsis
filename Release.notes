@@ -1,3 +1,9 @@
+# Version 0.5f
+# Fixed 2 mibs that were not declared properly
+
+# Version 0.5e
+# Added version to main file
+
 # Version 0.5d
 # Fixed logging issue with CM8220A where a hex-string would be reported as an error. Now we simply skip that log entry
 

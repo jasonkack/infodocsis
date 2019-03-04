@@ -1,6 +1,7 @@
 #! /usr/bin/env python3
 # Copyright Jason Kack – jkack@telebec.com
 # Using MIT License
+# Version 0.5e
 
 import os, sys
 from IPy import IP
@@ -22,8 +23,8 @@ try:
 	load("RFC1213-MIB")
 	load("BRIDGE-MIB")
 	load("DOCS-IF31-MIB")
-	load("DOCS-PNM-MIB.txt")
-	load("DOCS-IF-EXT-MIB.my")
+	load("DOCS-PNM-MIB")
+	load("DOCS-IF-EXT-MIB")
 
 
 
