@@ -23,8 +23,8 @@ try:
 	load("RFC1213-MIB")
 	load("BRIDGE-MIB")
 	load("DOCS-IF31-MIB")
-	load("DOCS-PNM-MIB.txt")
-	load("DOCS-IF-EXT-MIB.my")
+	load("DOCS-PNM-MIB")
+	load("DOCS-IF-EXT-MIB")
 
 
 
