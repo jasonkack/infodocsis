@@ -6,6 +6,7 @@ The default community used is public which can be changed at this line of code:<
 host = M(host=modem, community="public", version=2, timeout=1, retries=2)<br>
 Change the value of community to what you are using for your cable modems.<br>
 
+This script will run for any docsis version up to 3.1<br>
 You need these modules for this script to work:<br>
 Snimpy<br>
 IPy<br>
