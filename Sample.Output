@@ -1,0 +1,192 @@
+-------------------------------------------------------------------
+Downstream Information:
+Down    Frequency       Width   Mod             Power   SNR
+0       537.0 MHZ       6.0 MHZ qam256(4)       -3.8    46.5
+1       543.0 MHZ       6.0 MHZ qam256(4)       -4.0    46.2
+2       549.0 MHZ       6.0 MHZ qam256(4)       -4.1    46.0
+3       555.0 MHZ       6.0 MHZ qam256(4)       -4.3    46.2
+4       561.0 MHZ       6.0 MHZ qam256(4)       -4.5    46.0
+5       567.0 MHZ       6.0 MHZ qam256(4)       -4.5    45.7
+6       573.0 MHZ       6.0 MHZ qam256(4)       -4.6    45.8
+7       579.0 MHZ       6.0 MHZ qam256(4)       -4.7    45.7
+8       585.0 MHZ       6.0 MHZ qam256(4)       -4.7    45.7
+9       591.0 MHZ       6.0 MHZ qam256(4)       -4.6    44.6
+10      597.0 MHZ       6.0 MHZ qam256(4)       -4.6    45.6
+11      603.0 MHZ       6.0 MHZ qam256(4)       -4.7    45.5
+12      609.0 MHZ       6.0 MHZ qam256(4)       -4.8    45.4
+13      615.0 MHZ       6.0 MHZ qam256(4)       -4.8    44.8
+14      621.0 MHZ       6.0 MHZ qam256(4)       -4.8    45.0
+15      627.0 MHZ       6.0 MHZ qam256(4)       -4.9    44.4
+16      633.0 MHZ       6.0 MHZ qam256(4)       -5.1    44.2
+17      639.0 MHZ       6.0 MHZ qam256(4)       -5.2    44.2
+18      645.0 MHZ       6.0 MHZ qam256(4)       -5.2    44.3
+19      651.0 MHZ       6.0 MHZ qam256(4)       -5.3    44.1
+20      657.0 MHZ       6.0 MHZ qam256(4)       -5.4    44.1
+21      663.0 MHZ       6.0 MHZ qam256(4)       -5.5    43.9
+22      669.0 MHZ       6.0 MHZ qam256(4)       -5.5    43.8
+23      675.0 MHZ       6.0 MHZ qam256(4)       -5.6    42.5
+24      681.0 MHZ       6.0 MHZ qam256(4)       -5.6    44.6
+25      687.0 MHZ       6.0 MHZ qam256(4)       -5.6    44.4
+26      693.0 MHZ       6.0 MHZ qam256(4)       -5.6    44.1
+27      699.0 MHZ       6.0 MHZ qam256(4)       -5.6    44.4
+28      705.0 MHZ       6.0 MHZ qam256(4)       -5.5    44.5
+29      717.0 MHZ       6.0 MHZ qam256(4)       -5.4    44.1
+30      723.0 MHZ       6.0 MHZ qam256(4)       -5.6    44.3
+31      729.0 MHZ       6.0 MHZ qam256(4)       -5.6    44.2
+
+Ofdm Channel pilots and receive power, SNR:
+Ofdm channel SNR: 41.82
+Ofdm Channel PWR:
+0       |       820.0 MHZ       |       -6.0
+1       |       801.0 MHZ       |       -7.5
+2       |       807.0 MHZ       |       -6.0
+3       |       813.0 MHZ       |       -6.2
+4       |       819.0 MHZ       |       -6.1
+5       |       825.0 MHZ       |       -6.2
+6       |       831.0 MHZ       |       -6.5
+7       |       837.0 MHZ       |       -6.6
+8       |       843.0 MHZ       |       -6.8
+9       |       849.0 MHZ       |       -7.2
+10      |       855.0 MHZ       |       -7.3
+11      |       861.0 MHZ       |       -7.6
+12      |       867.0 MHZ       |       -7.8
+13      |       873.0 MHZ       |       -8.1
+14      |       879.0 MHZ       |       -8.5
+15      |       885.0 MHZ       |       -8.9
+16      |       891.0 MHZ       |       -8.9
+17      |       897.0 MHZ       |       -8.9
+18      |       903.0 MHZ       |       -8.9
+19      |       909.0 MHZ       |       -8.9
+20      |       915.0 MHZ       |       -9.1
+21      |       921.0 MHZ       |       -9.0
+22      |       927.0 MHZ       |       -8.9
+23      |       933.0 MHZ       |       -9.0
+24      |       939.0 MHZ       |       -8.9
+25      |       945.0 MHZ       |       -9.0
+26      |       951.0 MHZ       |       -9.0
+27      |       957.0 MHZ       |       -9.0
+28      |       963.0 MHZ       |       -9.1
+29      |       969.0 MHZ       |       -9.1
+30      |       975.0 MHZ       |       -9.1
+31      |       981.0 MHZ       |       -9.0
+32      |       987.0 MHZ       |       -10.5
+-------------------------------------------------------------------
+Upstream information:
+Up      Frequency       Width           ChanID  Power
+0       28.9 MHZ        6.4 MHZ         1       42.0
+1       35.3 MHZ        6.4 MHZ         2       42.0
+-------------------------------------------------------------------
+
+Sysinfo:                <<HW_REV: 4; VENDOR: ARRIS Group, Inc.; BOOTR: 2700; SW_REV: CM8200.0200.174F.311637.NSH.GN.NA; MODEL: CM8200A>>
+Docsis Version:         5
+Firmware Version:       CM8200.0200.174F.311637.NSH.GN.NA
+DHCP Server:            10.25.65.27
+Time Server:            10.25.65.28
+Tftp Server:            10.25.65.29
+Resets:                 1
+Lost Sync:              0
+
+Timeout Timers:
+T1:                     0
+T2:                     0
+T3:                     0
+T4:                     0
+
+FEC Count:
+Downstream      Good            Corrected       UnCorrected
+docsis 3.1
+0               2887295046              0               0
+1               2887298571              0               0
+2               2887300557              0               0
+3               2887304578              0               0
+4               2887307172              0               0
+5               2887309055              0               0
+6               2887311692              0               0
+7               2887314048              0               0
+8               2887315989              0               0
+9               2887319175              0               0
+10              2887322832              0               0
+11              2887325027              0               0
+12              2887327354              0               0
+13              2887329572              0               0
+14              2887331442              0               0
+15              2887334238              0               0
+16              2887337100              0               0
+17              2887339869              0               0
+18              2887343240              0               0
+19              2887345482              0               0
+20              2887348085              0               0
+21              2887350793              0               0
+22              2887353379              0               0
+23              2887355363              0               0
+24              2887358019              0               0
+25              2887360195              0               0
+26              2887362567              0               0
+27              2887364792              0               0
+28              2887366888              0               0
+29              2887368659              0               0
+30              2887370969              0               0
+31              2887370528              0               0
+
+Ethernet Interfaces:
+Eth0:
+Admin status:           up(1)
+Oper Status:            down(2)
+Speed:                  1000.0 Mbits
+IN Octets 32bits:       0
+OUT Octets 32bits:      0
+IN Octets 64bits:       0
+OUT Octets 64bits:      0
+
+Eth1:
+Admin status:           up(1)
+Oper Status:            down(2)
+Speed:                  1000.0 Mbits
+IN Octets 32bits:       0
+OUT Octets 32bits:      0
+IN Octets 64bits:       0
+OUT Octets 64bits:      0
+
+
+Here are the MAC used by the modem:
+Ethernet Mac:         5c:e3:e:72:31:c0
+Cable MAC:            5c:e3:e:72:31:c1
+USB Mac:              aa:9f:ec:4c:a5:b7
+Here are the macs the modem learned:
+
+
+Logs for modem 5ce3.0e72.31c1
+Firsttime               LastTime                Counts  Level           EventID         Log Entry
+9-2-20,13:53:30.0    252     critical(3)     84000100        SYNC Timing Synchronization failure - Failed to acquire QAM/QPSK symbol timing;;CM-MAC=5c:e3:0e:72:31:c1;CMTS-MAC=00:00:00:00:00:00;CM-QOS=1.1;CM-VER=3.1;
+2019-2-20,13:53:54.0    2019-2-20,13:54:26.0    77      critical(3)     84000100        SYNC Timing Synchronization failure - Failed to acquire QAM/QPSK symbol timing;;CM-MAC=5c:e3:0e:72:31:c1;CMTS-MAC=00:00:00:00:00:00;CM-QOS=1.1;CM-VER=3.1;
+2019-2-20,13:55:26.0    2019-2-20,13:55:34.0    3       critical(3)     82000200        No Ranging Response received - T3 time-out;CM-MAC=5c:e3:0e:72:31:c1;CMTS-MAC=94:d4:69:55:e0:e9;CM-QOS=1.1;CM-VER=3.1;
+2019-2-20,13:59:10.0    2019-2-20,13:59:42.0    77      critical(3)     84000100        SYNC Timing Synchronization failure - Failed to acquire QAM/QPSK symbol timing;;CM-MAC=5c:e3:0e:72:31:c1;CMTS-MAC=00:00:00:00:00:00;CM-QOS=1.1;CM-VER=3.1;
+2019-2-20,15:39:27.0    2019-2-20,15:39:27.0    1       critical(3)     82000400        Received Response to Broadcast Maintenance Request, But no Unicast Maintenance opportunities received - T4 time out;CM-MAC=5c:e3:0e:72:31:c1;CMTS-MAC=94:d4:69:55:e0:e9;CM-QOS=1.1;CM-VER=3.1;
+2019-2-20,15:39:27.0    2019-2-20,15:39:27.0    1       critical(3)     82000700        Unicast Ranging Received Abort Response - Re-initializing MAC;CM-MAC=5c:e3:0e:72:31:c1;CMTS-MAC=94:d4:69:55:e0:e9;CM-QOS=1.1;CM-VER=3.1;
+2019-2-20,15:39:47.0    2019-2-20,15:39:47.0    1       critical(3)     82000400        Received Response to Broadcast Maintenance Request, But no Unicast Maintenance opportunities received - T4 time out;CM-MAC=5c:e3:0e:72:31:c1;CMTS-MAC=94:d4:69:55:e0:e9;CM-QOS=1.1;CM-VER=3.1;
+1970-1-1,0:0:10.0       1970-1-1,0:0:10.0       1       critical(3)     84000100        SYNC Timing Synchronization failure - Failed to acquire QAM/QPSK symbol timing;;CM-MAC=5c:e3:0e:72:31:c1;CMTS-MAC=00:00:00:00:00:00;CM-QOS=1.1;CM-VER=3.1;
+2019-2-20,17:56:37.0    2019-2-20,17:56:37.0    1       critical(3)     82000700        Unicast Ranging Received Abort Response - Re-initializing MAC;CM-MAC=5c:e3:0e:72:31:c1;CMTS-MAC=94:d4:69:55:e0:e9;CM-QOS=1.1;CM-VER=3.1;
+2019-2-20,17:57:7.0     2019-2-20,17:57:7.0     1       critical(3)     82000400        Received Response to Broadcast Maintenance Request, But no Unicast Maintenance opportunities received - T4 time out;CM-MAC=5c:e3:0e:72:31:c1;CMTS-MAC=94:d4:69:55:e0:e9;CM-QOS=1.1;CM-VER=3.1;
+2019-2-20,17:57:7.0     2019-2-20,17:57:7.0     1       critical(3)     82000700        Unicast Ranging Received Abort Response - Re-initializing MAC;CM-MAC=5c:e3:0e:72:31:c1;CMTS-MAC=94:d4:69:55:e0:e9;CM-QOS=1.1;CM-VER=3.1;
+2019-2-20,17:57:22.0    2019-2-20,17:57:22.0    1       critical(3)     82000400        Received Response to Broadcast Maintenance Request, But no Unicast Maintenance opportunities received - T4 time out;CM-MAC=5c:e3:0e:72:31:c1;CMTS-MAC=94:d4:69:55:e0:e9;CM-QOS=1.1;CM-VER=3.1;
+1970-1-1,0:0:10.0       1970-1-1,0:0:10.0       1       critical(3)     84000100        SYNC Timing Synchronization failure - Failed to acquire QAM/QPSK symbol timing;;CM-MAC=5c:e3:0e:72:31:c1;CMTS-MAC=00:00:00:00:00:00;CM-QOS=1.1;CM-VER=3.1;
+2019-2-21,16:19:11.0    2019-2-21,16:19:11.0    1       critical(3)     82000400        Received Response to Broadcast Maintenance Request, But no Unicast Maintenance opportunities received - T4 time out;CM-MAC=5c:e3:0e:72:31:c1;CMTS-MAC=94:d4:69:55:e0:e9;CM-QOS=1.1;CM-VER=3.1;
+2019-2-21,16:19:11.0    2019-2-21,16:19:11.0    1       critical(3)     82000700        Unicast Ranging Received Abort Response - Re-initializing MAC;CM-MAC=5c:e3:0e:72:31:c1;CMTS-MAC=94:d4:69:55:e0:e9;CM-QOS=1.1;CM-VER=3.1;
+2019-2-21,16:19:31.0    2019-2-21,16:19:31.0    1       critical(3)     82000400        Received Response to Broadcast Maintenance Request, But no Unicast Maintenance opportunities received - T4 time out;CM-MAC=5c:e3:0e:72:31:c1;CMTS-MAC=94:d4:69:55:e0:e9;CM-QOS=1.1;CM-VER=3.1;
+1970-1-1,0:0:10.0       1970-1-1,0:0:10.0       1       critical(3)     84000100        SYNC Timing Synchronization failure - Failed to acquire QAM/QPSK symbol timing;;CM-MAC=5c:e3:0e:72:31:c1;CMTS-MAC=00:00:00:00:00:00;CM-QOS=1.1;CM-VER=3.1;
+2019-2-21,16:20:25.0    2019-2-21,16:20:37.0    5       critical(3)     73000200        REG RSP not received;CM-MAC=5c:e3:0e:72:31:c1;CMTS-MAC=94:d4:69:55:e0:e9;CM-QOS=1.1;CM-VER=3.1;
+2019-2-28,14:41:41.0    2019-2-28,14:41:41.0    1       critical(3)     82000400        Received Response to Broadcast Maintenance Request, But no Unicast Maintenance opportunities received - T4 time out;CM-MAC=5c:e3:0e:72:31:c1;CMTS-MAC=94:d4:69:55:e0:e9;CM-QOS=1.1;CM-VER=3.1;
+2019-2-28,14:41:51.0    2019-2-28,14:41:51.0    1       critical(3)     82000100        No Maintenance Broadcasts for Ranging opportunities received - T2 time-out;CM-MAC=5c:e3:0e:72:31:c1;CMTS-MAC=94:d4:69:55:e0:e9;CM-QOS=1.1;CM-VER=3.1;
+2019-2-28,14:42:1.0     2019-2-28,14:42:1.0     1       critical(3)     82000400        Received Response to Broadcast Maintenance Request, But no Unicast Maintenance opportunities received - T4 time out;CM-MAC=5c:e3:0e:72:31:c1;CMTS-MAC=94:d4:69:55:e0:e9;CM-QOS=1.1;CM-VER=3.1;
+1970-1-1,0:0:10.0       1970-1-1,0:11:57.0      1627    critical(3)     84000100        SYNC Timing Synchronization failure - Failed to acquire QAM/QPSK symbol timing;;CM-MAC=5c:e3:0e:72:31:c1;CMTS-MAC=00:00:00:00:00:00;CM-QOS=1.1;CM-VER=3.1;
+2019-3-1,12:33:12.0     2019-3-1,12:33:12.0     1       critical(3)     82000400        Received Response to Broadcast Maintenance Request, But no Unicast Maintenance opportunities received - T4 time out;CM-MAC=5c:e3:0e:72:31:c1;CMTS-MAC=94:d4:69:55:e0:e9;CM-QOS=1.1;CM-VER=3.1;
+2019-3-1,12:33:22.0     2019-3-1,12:33:22.0     1       critical(3)     82000100        No Maintenance Broadcasts for Ranging opportunities received - T2 time-out;CM-MAC=5c:e3:0e:72:31:c1;CMTS-MAC=94:d4:69:55:e0:e9;CM-QOS=1.1;CM-VER=3.1;
+2019-3-1,12:33:32.0     2019-3-1,12:33:32.0     1       critical(3)     82000400        Received Response to Broadcast Maintenance Request, But no Unicast Maintenance opportunities received - T4 time out;CM-MAC=5c:e3:0e:72:31:c1;CMTS-MAC=94:d4:69:55:e0:e9;CM-QOS=1.1;CM-VER=3.1;
+1970-1-1,0:0:10.0       1970-1-1,0:0:10.0       1       critical(3)     84000100        SYNC Timing Synchronization failure - Failed to acquire QAM/QPSK symbol timing;;CM-MAC=5c:e3:0e:72:31:c1;CMTS-MAC=00:00:00:00:00:00;CM-QOS=1.1;CM-VER=3.1;
+1970-1-1,0:0:22.0       1970-1-1,0:0:22.0       1       notice(6)       2436694066      Honoring MDD; IP provisioning mode = IPv4
+1970-1-1,0:0:25.0       1970-1-1,0:3:29.0       6       critical(3)     68000100        DHCP FAILED - Discover sent, no offer received;CM-MAC=5c:e3:0e:72:31:c1;CMTS-MAC=94:d4:69:55:e0:e9;CM-QOS=1.1;CM-VER=3.1;
+1970-1-1,0:4:33.0       1970-1-1,0:4:33.0       1       notice(6)       2436694066      Honoring MDD; IP provisioning mode = IPv4
+1970-1-1,0:4:36.0       1970-1-1,0:5:32.0       4       critical(3)     68000100        DHCP FAILED - Discover sent, no offer received;CM-MAC=5c:e3:0e:72:31:c1;CMTS-MAC=94:d4:69:55:e0:e9;CM-QOS=1.1;CM-VER=3.1;
+2019-3-1,12:39:26.0     2019-3-1,12:39:26.0     1       warning(5)      68000300        DHCP WARNING - Non-critical field invalid in response ;CM-MAC=5c:e3:0e:72:31:c1;CMTS-MAC=94:d4:69:55:e0:e9;CM-QOS=1.1;CM-VER=3.1;
+2019-3-1,12:39:30.0     2019-3-1,12:39:30.0     1       notice(6)       67061600        DS profile assignment change. DS Chan ID: 32; Previous Profile: ; New Profile: 1 2 3.;CM-MAC=5c:e3:0e:72:31:c1;CMTS-MAC=94:d4:69:55:e0:e9;CM-QOS=1.1;CM-VER=3.1;
+2019-3-1,14:39:25.0     2019-3-4,10:39:25.0     35      error(4)        68010300        DHCP RENEW WARNING - Field invalid in response v4 option;CM-MAC=5c:e3:0e:72:31:c1;CMTS-MAC=94:d4:69:55:e0:e9;CM-QOS=1.1;CM-VER=3.1;
