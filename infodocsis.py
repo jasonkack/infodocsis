@@ -1,7 +1,7 @@
 #! /usr/bin/env python3
 # Copyright Jason Kack – jkack@telebec.com
 # Using MIT License
-# Version 0.5e
+# Version 0.5f
 
 import os, sys
 from IPy import IP

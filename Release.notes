@@ -1,3 +1,6 @@
+# Version 0.5g
+# Fixed version in main file was not set properly
+
 # Version 0.5f
 # Fixed 2 mibs that were not declared properly
 
