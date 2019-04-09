@@ -1,7 +1,7 @@
 #! /usr/bin/env python3
 # Copyright Jason Kack – jkack@telebec.com
 # Using MIT License
-# Version 0.5i
+# Version 0.5j
 
 import os, sys
 from IPy import IP
@@ -122,7 +122,7 @@ try:
 	print ("T2:\t\t\t" + str(host.docsIfCmStatusT2Timeouts[2]))
 	print ("T3:\t\t\t" + str(host.docsIfCmStatusT3Timeouts[2]))
 	print ("T4:\t\t\t" + str(host.docsIfCmStatusT4Timeouts[2]))
-	print ("RA:\t\t\t" + str(docsIfCmStatusRangingAborteds[2]))
+	print ("RA:\t\t\t" + str(host.docsIfCmStatusRangingAborteds[2]))
 	print ("")
 	print ("FEC Count:")
 	print ("Downstream\t" + "Good\t\t" + "Corrected\t" + "UnCorrected")
