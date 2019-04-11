@@ -1,7 +1,7 @@
 #! /usr/bin/env python3
 # Copyright Jason Kack – jkack@telebec.com
 # Using MIT License
-# Version 0.5j
+# Version 0.5k
 
 import os, sys
 from IPy import IP
@@ -157,6 +157,7 @@ try:
 		print ("Admin status:\t\t" + str(host.ifAdminStatus[i]))
 		print ("Oper Status:\t\t" + str(host.ifOperStatus[i]))
 		print ("Speed:\t\t\t" + str(host.ifSpeed[i] / 1000000) + " Mbits")
+		print ("MTU:\t\t\t" + str(host.ifMtu[i]))
 		print ("IN Octets 32bits:\t" + str(host.ifInOctets[i]))
 		print ("OUT Octets 32bits:\t" + str(host.ifOutOctets[i]))
 		print ("IN Octets 64bits:\t" + str(host.ifHCInOctets[i]))
