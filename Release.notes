@@ -1,3 +1,6 @@
+# Version 0.5k
+# Added MTU for ethernet interfaces
+
 # Version 0.5j
 # Fixed the statement ofr range aborts. was missing host info
 
